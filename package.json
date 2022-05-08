@@ -1,0 +1,21 @@
+{
+  "name": "furnitureecommerce",
+  "version": "1.0.0",
+  "description": "Ecommerce WebPage",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "ecommerce",
+    "nodejs"
+  ],
+  "author": "Taylan Guloglu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
